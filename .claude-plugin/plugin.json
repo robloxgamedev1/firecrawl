@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-build",
+  "version": "0.1.0",
+  "description": "Build apps that use the Firecrawl API for web search, scraping and extraction (needs a Firecrawl API key).",
+  "author": { "name": "robloxgamedev1" },
+  "repository": "https://github.com/robloxgamedev1/firecrawl"
+}

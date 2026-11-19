@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "firecrawl-build",
+  "description": "Build apps that use the Firecrawl API for web search, scraping and extraction (needs a Firecrawl API key).",
+  "owner": {
+    "name": "robloxgamedev1"
+  },
+  "plugins": [
+    {
+      "name": "firecrawl-build",
+      "description": "Build apps that use the Firecrawl API for web search, scraping and extraction (needs a Firecrawl API key).",
+      "source": "./"
+    }
+  ]
+}
